@@ -1,1 +1,1 @@
-This is a website layout which is responcive.
+This is a website layout which is responsive.
